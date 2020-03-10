@@ -1,4 +1,4 @@
-17015475178297498
+17020226586924976
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -75460,12 +75460,33 @@ kailh,choc
 2
 2
 bongorian
+SW_PG1350_inname_ana
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+2
+2
+bongorian
 USB_C_Receptacle_Palconn_UTC16-G-NoSBU
 http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf
 USB C Type-C Receptacle USB2.0
 0
 14
 11
+bongorian
+c64_back
+
+
+0
+0
+0
+bongorian
+hardcore
+
+
+0
+0
+0
 keyswitches
 Kailh_socket_MX
 MX-style keyswitch with Kailh socket mount
